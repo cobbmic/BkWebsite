@@ -1187,7 +1187,7 @@ blockquote {
 .fullwidth .item .magnifier,
 .blog-item .hovereffect,
 .team_member .magnifier {
-    background-color: rgba(38, 205, 164, 0.8) !important;
+    background-color: #4c70a8 !important;
 }
 /* ----------------------------------------------------
 	RESPONSIVE
