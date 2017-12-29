@@ -281,7 +281,7 @@ h2.header-text {
     font-size: 90px;
 }
 .attorney-button{
-    background-color: #30AD97;
+    background-color: #344D73;
     border-radius: 0;
     font-size: 16px;
     padding: 10px 45px;
@@ -289,9 +289,9 @@ h2.header-text {
     color: #ffffff;
 }
 .attorney-button:hover , .attorney-button:focus{
-    color: #30AD97;
+    color: #344D73;
     background: transparent;
-    border: 1px solid #30AD97;
+    border: 1px solid #344D73;
 }
 /*About Us*/
 #thumbs .thumb{
@@ -310,7 +310,7 @@ h2.header-text {
     background-color: #fff;
 }
 .about-read-more{
-    color: #30AD97;
+    color: #344D73;
 }
 @media (min-width: 768px) {
     /*Row display middle*/
@@ -417,7 +417,7 @@ h2.header-text {
 .thin{
     padding: 0;
     transition: all 0.4s ease-in-out;
-    background-color: #30AD97;
+    background-color: #344D73;
 }
 .thin .navbar-brand > img{
     width: 50%;
@@ -440,7 +440,7 @@ h2.header-text {
     .navbar{
         margin-bottom: 0;
         padding: 0;
-        background-color: #30AD97;
+        background-color: #344D73;
         text-align: center;
     }
     .navbar-brand > img{
@@ -471,7 +471,7 @@ h2.header-text {
 .item-content .speech:before, .item-content .speech:after{
     position: absolute;
     font-family: 'FontAwesome';
-    color: #30ad97;
+    color: #344d73;
     font-size: 24px;
 }
 .item-content .speech:before{
@@ -485,7 +485,7 @@ h2.header-text {
     bottom: -15px;
 }
 .item-content p a span{
-    color: #30ad97;
+    color: #344d73;
 }
 
 p.testimonial_foter a {
@@ -506,7 +506,7 @@ p.testimonial_foter a:last-child {
     position: absolute;
     top: calc(50% - 28px);
     padding: 15px;
-    background-color: #30ad97;
+    background-color: #344d73;
     opacity: 1;
     border-radius: 0;
     font-size: 24px;
@@ -545,7 +545,7 @@ section#fun_facts {
     padding: 50px 0;
 }
 .fun-col:nth-child(2) .fun{
-    background-color: #30ad97;
+    background-color: #344d73;
 }
 .fun i{
     font-size: 30px;
@@ -576,7 +576,7 @@ section#fun_facts {
 }
 .cta-btn{
     display: inline-block;
-    background-color: #30AD97;
+    background-color: #344D73;
     color: #fff;
     font-size: 30px;
 }
@@ -589,12 +589,12 @@ section#fun_facts {
     color: white;
 }
 .cta-btn a:hover {
-    color: #30AD97;
+    color: #344D73;
 }
 
 .cta-btn:hover {
     background-color: white;
-    color: #30AD97;
+    color: #344D73;
 }
 /* ----------------------------------------------------
 	Contact and Office
@@ -608,7 +608,7 @@ section#fun_facts {
     margin-top: 50px;
 }
 .contact #contactform .btn-primary {
-    background: #30ad97;
+    background: #344d73;
     border-color: rgba(173, 154, 154, 0.4) !important;
     color: #fff;
     border-radius: 0 !important;
@@ -646,7 +646,7 @@ section#fun_facts {
     transition: all .4s ease-in-out;
 }
 .office .media:hover .media-middle{
-    background-color: #30AD97;
+    background-color: #344D73;
 }
 @media (min-width: 768px){
     .footer-logo{
@@ -667,7 +667,7 @@ section#fun_facts {
     background-color: #4a4a4a;
 }
 .footer .social div:hover{
-    background-color: #30AD97;
+    background-color: #344D73;
     color: #fff;
 }
 .footer{
@@ -729,14 +729,14 @@ small{
     border-radius: 0;
 }
 .input-group-addon:hover{
-    background-color: #30ad97;
+    background-color: #344d73;
     color: #fff;
-    border-color: #30ad97;
+    border-color: #344d73;
 }
 #submit{
     float: right;
     clear: both;
-    background-color: #30ad97;
+    background-color: #344d73;
     color: #fff;
     border-radius: 0;
 }
@@ -839,7 +839,7 @@ small{
     padding: 10px;
 }
 .practice-title{
-    color: #30AD97;
+    color: #344D73;
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 700;
@@ -864,7 +864,7 @@ small{
     font-size: 14px !important;
 }
 .lawyer{
-    background-color: #30AD97;
+    background-color: #344D73;
     text-transform: uppercase;
     color: #fff;
     padding: 5px 20px 25px;
@@ -885,7 +885,7 @@ small{
 }
 .lawyer .pf_button:hover{
     background-color: #fff;
-    color: #30AD97;
+    color: #344D73;
 }
 .team_member .lawyer-details{
     font-size: 12px;
@@ -945,7 +945,7 @@ small{
     padding: 10px 0 20px;
 }
 .share-block{
-    background-color: #30AD97;
+    background-color: #344D73;
     color: #fff;
     padding: 10px 35px;
     margin: 0 0 40px;
@@ -1008,7 +1008,7 @@ small{
     padding: 30px;
     background: #fff;
     color: #999;
-    border: 1px solid #30AD97;
+    border: 1px solid #344D73;
 }
 .title-panel {
     background: rgba(90, 103, 102, 1);
@@ -1025,11 +1025,11 @@ small{
 }
 .panel-default > .panel-heading.panel-collapsed {
     background-color: #fff;
-    color: #30AD97;
+    color: #344D73;
 }
 .panel-default > .panel-heading {
     color: #fff;
-    background-color: #30AD97;
+    background-color: #344D73;
     border-radius: 0;
     border-color: transparent;
 }
