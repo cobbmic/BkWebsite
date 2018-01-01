@@ -269,6 +269,69 @@ h2.header-text:after {
     font-size: 90px;
     top: 5px;
 }
+
+/* fading in the header text */
+
+.textFadeInOut1 {
+    -webkit-animation: fadeInOut1 8s linear forwards;
+    animation: fadeInOut1 8s linear forwards;
+    opacity: 0;
+}
+
+@-webkit-keyframes fadeInOut1 {
+    25% { opacity: 1;}
+    50% { opacity: 1;}
+    75% { opacity: 0;}
+    100% { opacity: 0;}
+}
+
+@keyframes fadeInOut1 {
+    25% { opacity: 1;}
+    50% { opacity: 1;}
+    75% { opacity: 0;}
+    100% { opacity: 0;}
+}
+
+.textFadeInOut2 {
+    -webkit-animation: fadeInOut2 8s linear forwards;
+    animation: fadeInOut2 8s linear forwards;
+    opacity: 0;
+}
+
+@-webkit-keyframes fadeInOut2 {
+    25% { opacity: 0;}
+    50% { opacity: 1;}
+    75% { opacity: 1;}
+    100% { opacity: 0;}
+}
+
+@keyframes fadeInOut2 {
+    25% { opacity: 0;}
+    50% { opacity: 1;}
+    75% { opacity: 1;}
+    100% { opacity: 0;}
+}
+
+.textFadeInOut3 {
+    -webkit-animation: fadeInOut3 8s linear forwards;
+    animation: fadeInOut3 8s linear forwards;
+    opacity: 0;
+}
+
+@-webkit-keyframes fadeInOut3 {
+    25% { opacity: 0;}
+    50% { opacity: 0;}
+    75% { opacity: 1;}
+    100% { opacity: 1;}
+}
+
+@keyframes fadeInOut3 {
+    25% { opacity: 0;}
+    50% { opacity: 0;}
+    75% { opacity: 1;}
+    100% { opacity: 1;}
+}
+
 span.rotate {
     transition: 1s;
 }
@@ -427,12 +490,12 @@ h2.header-text {
 .thin.navbar-default .navbar-nav > li > a:hover {
     font-weight: normal !important;
     color: #FFFFFF !important;
-    background: #299280 !important;
+    background: #4c70a8 !important;
 }
 
 .navbar-fixed-top .navbar-nav > li > a:hover {
     font-weight: normal !important;
-    color: #299280 !important;
+    color: #4c70a8 !important;
     background: transparent;
 }
 
@@ -585,7 +648,7 @@ section#fun_facts {
     padding: 20px;
 }
 .cta-btn .btn-icon{
-    background-color: #299280;
+    background-color: #4c70a8;
     color: white;
 }
 .cta-btn a:hover {
